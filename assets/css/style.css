@@ -47,6 +47,7 @@ body {
 
 footer {
     background-color: #15F3E9;
+    padding: 20px 0;
 }
 
 #informacion {
@@ -79,9 +80,7 @@ footer p {
     padding: 10px 0;
 }
 
-footer {
-    padding: 20px 0;
-}
+
 
 #informacion i {
     font-size: 25px;
